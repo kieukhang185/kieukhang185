@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 
 ---
 
-
 ## 📈 GitHub Stats
 
 <details>
@@ -34,11 +33,3 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kieukhang185&layout=compact&theme=tokyonight)
 </details>
----
-
-## ⚡ Fun Facts
-
-- 💡 I automate *everything* – from builds to deployments
-- 🧱 I love building scalable cloud environments from scratch
-- 🎮 Outside of DevOps, I enjoy gaming and exploring new tech
-
