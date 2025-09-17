@@ -21,15 +21,3 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 ## 🔗 Project Links
 
 - [OpsBox](https://github.com/kieukhang185/opsbox)
-
----
-
-## 📈 GitHub Stats
-
-<details>
-  <summary>Click to view GitHub Stats</summary>
-
-  ![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieukhang185&show_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kieukhang185&layout=compact&theme=tokyonight)
-</details>
