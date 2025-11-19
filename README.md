@@ -19,4 +19,4 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 
 ## 🔗 Project Links
 
-- [OpsBox](https://github.com/kieukhang185/opsbox): All Devops in a Box
+- [OpsBox](https://github.com/kieukhang185/opsbox): End-to-end DevOps project
