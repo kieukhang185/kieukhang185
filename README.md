@@ -20,3 +20,4 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 ## 🔗 Project Links
 
 - [OpsBox](https://github.com/kieukhang185/opsbox): End-to-end DevOps project
+- [Sudoku](https://github.com/kieukhang185/sudoku-lan): Sudoku game play on your LAN
