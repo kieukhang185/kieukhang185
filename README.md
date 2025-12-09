@@ -1,6 +1,6 @@
- # 👋 Hello, I'm Khang – DevOps Engineer 🚀
+ # 👋 Hello, I'm Khang – CI/CD | DevOps Engineer 🚀
 
-Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automation, cloud infrastructure, CI/CD pipelines, and enabling developer productivity through reliable systems.
+Welcome to my GitHub profile!
 
 ---
 
